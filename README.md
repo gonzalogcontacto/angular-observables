@@ -1,5 +1,5 @@
-# FacturacionApp
-
+# Angular Observables
+Proyecto educacional en el que vemos la implementación de observables para consumir los datos de nuestros servicios.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
 
 ## Development server
